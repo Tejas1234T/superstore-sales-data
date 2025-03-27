@@ -1,0 +1,87 @@
+Super Store Sales Report
+
+Date:Dec 25 , 2024Prepared by: [Tejas jamnare]Tool Used: Power BI
+
+Overview
+
+This report provides an analytical summary of the Super Store sales performance. It highlights key sales metrics, performance trends, and insights based on segments, payment modes, categories, and sub-categories.
+
+Key Performance Indicators (KPIs)
+
+Average Delivery Time: 4 days
+
+Total Sales: $0.34M
+
+Total Profit: $0.03M
+
+Total Quantity Sold: 5K
+
+Sales Performance Analysis
+
+Sales by Segment
+
+Consumer: 48%
+
+Corporate: 33%
+
+Home Office: 20%
+
+Sales by Payment Mode
+
+Cash on Delivery (COD): 41%
+
+Online Payments: 39%
+
+Card Payments: 20%
+
+Monthly Sales and Profit (Year-over-Year Analysis)
+
+The line chart illustrates the sales and profit trends for the years 2019 and 2020.
+
+Sales and profit show seasonal fluctuations, with peaks around October to December.
+
+Sales by Shipping Class
+
+Standard Class: $0.21M
+
+Second Class: $0.07M
+
+First Class: $0.04M
+
+Same Day Delivery: $0.02M
+
+Sales by Category
+
+Office Supplies: $0.15M
+
+Furniture: $0.11M
+
+Technology: $0.09M
+
+Sales by Sub-Category
+
+Chairs: 46K
+
+Binders: 43K
+
+Phones: 43K
+
+Sales and Profit by State
+
+The geographical analysis highlights sales distribution across various states, with major contributions from key regions.
+
+Insights and Recommendations
+
+Consumer Segment Dominance: Since consumers contribute 48% of total sales, personalized marketing campaigns can help increase engagement and revenue.
+
+Growth in Online Payments: Online payments (39%) are increasing, indicating a trend towards digital transactions. Offering discounts for online purchases may further boost sales.
+
+Shipping Class Optimization: Standard class accounts for the highest sales, while same-day delivery contributes the least. Analyzing customer preference for faster shipping could provide opportunities for premium delivery services.
+
+Product Category Focus: Office supplies have the highest sales, followed by furniture and technology. More targeted promotions and inventory adjustments can enhance profitability.
+
+Regional Performance: Identifying high-performing and underperforming states can help refine regional sales strategies and resource allocation.
+
+Conclusion
+
+The Super Store Sales Dashboard provides valuable insights into the store's sales performance. By leveraging these data-driven insights, the company can optimize operations, improve customer targeting, and maximize profitability.
